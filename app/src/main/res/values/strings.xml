@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Funciones Matematicas</string>
+    <string name="numero1">Ingrese Numero 1</string>
+    <string name="numero2">Ingrese Numero 2</string>
+</resources>
